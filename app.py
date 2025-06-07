@@ -44,7 +44,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="container">
-        <h1>Azure Web App Environment Variables - test</h1>
+        <h1>Azure Web App Environment Variables - test multiple slots</h1>
         <div class="env-var">
             <h3>MAX_ITEMS Environment Variable:</h3>
             <div class="value">{{ max_items_value }}</div>
